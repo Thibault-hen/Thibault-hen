@@ -1,6 +1,6 @@
 # About-me
 <h1 align="left">Hi 👋, I'm Thibault</h1>
-- 🔭 I’m currently working on a web application about Formula 1 (https://github.com/Thibault-hen/F1FEVER-API & https://github.com/Thibault-hen/F1FEVER-API)
+- 🔭 I’m currently working on a web application about Formula 1 (https://github.com/Thibault-hen/F1FEVER-API & https://github.com/Thibault-hen/F1FEVER-vue)
 
 - 🌱 I’m currently learning **Laravel, Vue.js, Node.js**
 
