@@ -1,6 +1,6 @@
 # About-me
 <h1 align="left">Hi 👋, I'm Thibault</h1>
-- 🔭 I’m curretly working on [F1FEVER](https://github.com/Thibault-hen?tab=repositories)
+- 🔭 I’m currently working on [F1FEVER](https://github.com/Thibault-hen/F1FEVER)
 
 - 🌱 I’m currently learning **Laravel, Vue.js, Node.js**
 
